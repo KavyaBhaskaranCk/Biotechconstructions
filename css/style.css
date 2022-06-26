@@ -2456,15 +2456,13 @@ img.testimonial-thumb {
 .latest-post {
   position: relative;
 }
-
+.Gallery-img{
+  height: 230px!important;
+  width: 460px !important;
+}
 .latest-post .image-angle:before {
   border-bottom: 20px solid #f9f9f9;
 }
-.img-fluid{
-  height: 260px !important;
-}
-
-
 .latest-post .post-title a {
   color: #303030;
 }
